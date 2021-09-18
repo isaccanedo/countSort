@@ -1,7 +1,5 @@
 //  COUNT SORT
 //  ----------
-//  Created by Rupali on 20/12/15.
-
 
 #include <iostream>
 
